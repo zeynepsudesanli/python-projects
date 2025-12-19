@@ -9,3 +9,4 @@ This repository contains my Python projects as part of my learning journey.
 
 ## Projects
 - Task Manager (Python + SQLite) – in progress
+Task Manager project will be added here.
